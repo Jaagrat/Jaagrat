@@ -2,7 +2,6 @@
 - 👀 I’m interested in Backend Engineering roles 
 - 🌱 I’m currently learning development and core Computer Science subjects
 - 💞️ I’m looking to collaborate on Books and Content
-- 📫 How to reach me ...
 
 <!---
 Jaagrat/Jaagrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
