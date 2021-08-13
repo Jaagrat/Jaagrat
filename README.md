@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaagrat
 - 👀 I’m interested in Backend Engineering roles 
-- 🌱 I’m currently learning development and core Computer Science Roles
+- 🌱 I’m currently learning development and core Computer Science subjects
 - 💞️ I’m looking to collaborate on Books and Content
 - 📫 How to reach me ...
 
